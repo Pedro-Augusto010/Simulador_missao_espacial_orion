@@ -1,4 +1,4 @@
-
+//Missão Estelar Orion: Sistema em C que funciona como um simulador de painel de controle de uma nave espacial. Desenvolvido por Pedro Augusto Ferreira.
 #include <stdio.h>
 #include <string.h>
 #include <windows.h>
