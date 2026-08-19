@@ -1,4 +1,4 @@
-# 🛸 Monitoramento e Telemetria Espacial — Missão Estelar Orion
+# 🛸 Missão Estelar Orion
 
 Este projeto documenta o processo completo de engenharia e desenvolvimento do software de telemetria da **Missão Estelar Orion**, um sistema de suporte a missões espaciais de exploração lunar fictícias. A iniciativa surgiu da necessidade de monitorar, em tempo real, a alocação e o consumo de insumos vitais de sobrevivência a bordo de uma nave espacial, substituindo estimativas manuais por um sistema de processamento de dados robusto, capaz de prevenir crises catastróficas e garantir o cumprimento dos objetivos científicos da missão.
 
