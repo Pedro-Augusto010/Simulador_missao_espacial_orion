@@ -1,4 +1,4 @@
-# 🛸 Missão Estelar Orion
+# 🚀 Missão Estelar Orion
 
 Este projeto documenta o desenvolvimento do software de gerenciamento da **Missão Estelar Orion**, uma aplicação interativa desenvolvida em **Linguagem C**. A iniciativa surgiu da necessidade de monitorar, em tempo real, os insumos vitais de sobrevivência a bordo de uma nave espacial enviada à Lua, substituindo estimativas manuais por um controle de dados preciso, capaz de emitir alertas de crise e determinar o desfecho da expedição.
 
